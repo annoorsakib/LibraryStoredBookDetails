@@ -1,0 +1,61 @@
+run:
+library name: AIUB
+Address: kuril
+total book collection: 3
+0.
+Name: abc
+Author: Lamia Islam
+ID: 123
+Type: kids
+Number of copies: 10
+1.
+Name: Cinderella
+Author: P.K. Hudson
+ID: 00024
+Type: fairytale
+Number of copies: 5
+2.
+Name: Thinking of Java
+Author: Dr. K.Hayder
+ID: 123376
+Type: tutorial
+Number of copies: 50
+--------------------------------
+library name: AIUB
+Address: kuril
+total book collection: 3
+0.
+Name: abc
+Author: Lamia Islam
+ID: 123
+Type: kids
+Number of copies: 10
+1.
+Name: Cinderella
+Author: P.K. Hudson
+ID: 00024
+Type: fairytale
+Number of copies: 7
+2.
+Name: Thinking of Java
+Author: Dr. K.Hayder
+ID: 123376
+Type: tutorial
+Number of copies: 50
+--------------------------------
+library name: AIUB
+Address: kuril
+total book collection: 2
+0.
+Name: abc
+Author: Lamia Islam
+ID: 123
+Type: kids
+Number of copies: 10
+1.
+Name: Thinking of Java
+Author: Dr. K.Hayder
+ID: 123376
+Type: tutorial
+Number of copies: 50
+BUILD SUCCESSFUL (total time: 0 seconds)
